@@ -1,0 +1,9 @@
+C:\Users\manu2\source\repos\WinTestTxtFormat\WinTestTxtFormat\bin\Release\WinTestTxtFormat.exe.config
+C:\Users\manu2\source\repos\WinTestTxtFormat\WinTestTxtFormat\bin\Release\WinTestTxtFormat.exe
+C:\Users\manu2\source\repos\WinTestTxtFormat\WinTestTxtFormat\bin\Release\WinTestTxtFormat.pdb
+C:\Users\manu2\source\repos\WinTestTxtFormat\WinTestTxtFormat\obj\Release\WinTestTxtFormat.Form1.resources
+C:\Users\manu2\source\repos\WinTestTxtFormat\WinTestTxtFormat\obj\Release\WinTestTxtFormat.Properties.Resources.resources
+C:\Users\manu2\source\repos\WinTestTxtFormat\WinTestTxtFormat\obj\Release\WinTestTxtFormat.csproj.GenerateResource.cache
+C:\Users\manu2\source\repos\WinTestTxtFormat\WinTestTxtFormat\obj\Release\WinTestTxtFormat.csproj.CoreCompileInputs.cache
+C:\Users\manu2\source\repos\WinTestTxtFormat\WinTestTxtFormat\obj\Release\WinTestTxtFormat.exe
+C:\Users\manu2\source\repos\WinTestTxtFormat\WinTestTxtFormat\obj\Release\WinTestTxtFormat.pdb
